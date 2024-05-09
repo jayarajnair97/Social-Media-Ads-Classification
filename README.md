@@ -28,3 +28,7 @@ Support Vector Machine  (The accuracy score = 0.75)
 Logistic Regression     (The accuracy score = 0.68)
 
 The best fit model is Naive Bayes which has better accuiracy of 0.93
+
+## Insights
+The target audience's over-45 demographic is more interested in buying the goods
+The target group who earn more than 90,000rs per month are more likely to buy the goods.
